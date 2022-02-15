@@ -1,0 +1,75 @@
+h6{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+}
+p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(170, 49, 49);
+}
+p.speech{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(119, 21, 21);
+}
+p.stage-direction{
+    background-color: rgb(122, 231, 131);
+}
+p.stage-direction:hover{
+    background-color: rgb(112, 112, 55);
+    color: rgb(48, 48, 161);
+}
+h6.name:hover{
+    text-shadow: 3px 3px 2px rgb(204, 204, 45);
+    border: 1px solid rgb(100, 71, 71);
+}
+h6.Cleante{
+    color:rgb(36, 36, 218);
+}
+h6.Orgon{
+    color:rgb(46, 136, 46);
+}
+h6.Damis{
+    color:rgb(187, 59, 59);
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+td, th{
+    border:1px solid rgb(126, 36, 36);
+    text-align: left;
+    padding: 25px 15px;
+    margin: 15px 15px;
+}
+tr:nth-child(even){
+    background-color: rgb(129, 148, 62);
+    }
+tr:nth-child(odd){
+background-color: rgb(156, 40, 40);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightskyblue;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(163, 29, 29);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(155, 85, 60);
+  }
